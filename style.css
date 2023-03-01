@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 h1,
 h2,
@@ -23,6 +26,8 @@ textarea {
   font-weight: inherit;
   line-height: inherit;
   color: inherit;
+  border: none;
+  outline: none;
 }
 button,
 select {
